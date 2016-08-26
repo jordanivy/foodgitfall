@@ -11,18 +11,17 @@ It is usually of plant or animal origin, and contains essential nutrients,
 such as fats, proteins, vitamins, or minerals.
 
 <p>Fruit <br>
-  apple<br>
-orange<br>
+<img src="apple.jpeg"><br>
+<img src="orange.jpg"><br>
 </p>
 
 <p>Vegetables <br>
-corn<br>
-carrots<br>
+<img src="corn.jpeg"><br>
+<img src="carrots.jpeg"><br>
 </p>
   
 <p> Red Meat <br>
   
-</p>
 
 <p> Poultry <br>
   
