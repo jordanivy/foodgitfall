@@ -10,11 +10,13 @@ It is usually of plant or animal origin, and contains essential nutrients,
 such as fats, proteins, vitamins, or minerals.
 
 <p>Fruit <br>
-  
+  apple<br>
+orange<br>
 </p>
 
 <p>Vegetables <br>
-  
+corn<br>
+carrots<br>
 </p>
   
 <p> Red Meat <br>
