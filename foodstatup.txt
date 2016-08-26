@@ -10,13 +10,13 @@ It is usually of plant or animal origin, and contains essential nutrients,
 such as fats, proteins, vitamins, or minerals.
 
 <p>Fruit <br>
-  apple<br>
-orange<br>
+   <img src="apple.jpeg">
+   <img src="orange.jpg">
 </p>
 
 <p>Vegetables <br>
-corn<br>
-carrots<br>
+   <img src="corn.jpeg">
+   <img src="carrot.jpeg">   
 </p>
   
 <p> Red Meat <br>
@@ -25,5 +25,5 @@ carrots<br>
 
 <p> Poultry <br>
   
- </p>
+</p>
 </html>
