@@ -1,3 +1,1 @@
-# hello-world
-Just another repository
-Write a bit about yourself.
+This was a short exercise I did with my group members in my senior capstone software engineering class for my undergraduate CS degree. Our professor, Dr. Phelps, wanted us to demonstrate that we all knew how to use GitHub.
